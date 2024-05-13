@@ -19,10 +19,12 @@
         },
         "default_title":"Web Time Tracker"
     },
+    
     "permissions": [
         "tabs",
         "activeTab",
         "storage",
         "webNavigation"
     ]
+   
 }
