@@ -1,18 +1,13 @@
-# Web-Time Tracker 
+# website_activity_block_account
+This extension provides the extensive feature of tracking, and controlling  the web activity according to the requirement of the user 
 
-A Chrome Extension that keeps track of the time you spend on various websites, each day.
+working video - https://drive.google.com/file/d/1OrePPUvv6Bcadntp3AkxXXGOL5Y4hh_d/view?usp=sharing
 
-## Installation
-1. Download the source code as ZIP and extract it to any location.
-2. Open [chrome://extensions/](chrome://extensions/) in your Chrome browser and enable **Developer mode** on the top right corner.
-3. Click on **Load unpacked** and select the location of unzipped source folder.
+---------------------------------------------------------
+How to use my extension -
+download the code from my GitHub repository.
+Open Chrome and go to chrome://extensions/.
+Enable Developer Mode by toggling the switch in the top right corner.
+Click on the "Load unpacked" button.
+Select the folder containing your extension files. Chrome will load your extension, and you should see it listed on the extensions page.
 
-## Features 
-* Badges to display time spent on each site. <br> <img src="images/Badge.gif" height="50">
-* Detailed view of sites visited today. <br> <img src= "images/Today.gif" height = "400">
-* Select a date and view time spent details <br> <img src = "images/DatePick.gif" height = "400">
-* Quick summary of online time trends for the past week.  <br> <img src = "images/Week.gif" height = "400">
-
-## Contributors
-[@Shankar203](https://github.com/Shankar203)
-[@vrrao01](https://github.com/vrrao01)
